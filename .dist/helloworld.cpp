@@ -3,7 +3,7 @@ using namespace std;
 #include <thread>
 void hello()
 {
-cout<<"Hello Concurrent World\n";
+cout<<"Hello Concurrent World_kinda\n";
 }
 int main()
 {
